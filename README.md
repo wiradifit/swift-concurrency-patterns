@@ -9,4 +9,4 @@ Every pattern: problem → wrong code → correct code → why it matters.
 |---|---|---|
 | 1 | @MainActor boundaries for XCTest suites | 🚧 in review |
 
-License: MIT. Contributions welcome — see CONTRIBUTING.md.
+License: PolyForm Noncommercial 1.0.0 — free to use, modify, and contribute for research/noncommercial purposes; commercialization requires separate permission. Contributions welcome — see CONTRIBUTING.md.
